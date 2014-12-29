@@ -110,6 +110,8 @@ GEM
       rdoc (~> 4.0)
     shoulda-matchers (2.5.0)
       activesupport (>= 3.0.0)
+    skylight (0.5.2)
+      activesupport (>= 3.0.0)
     spring (1.2.0)
     sprockets (2.12.3)
       hike (~> 1.2)
@@ -147,6 +149,7 @@ DEPENDENCIES
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   shoulda-matchers (~> 2.5.0)
+  skylight (~> 0.5.2)
   spring
   sqlite3
   turbolinks
