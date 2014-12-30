@@ -37,6 +37,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.1.0'
   gem 'shoulda-matchers', '~> 2.5.0'
   gem 'sqlite3'
+  gem 'better_errors'
+  gem 'binding_of_caller'
 end
 
 group :production do
